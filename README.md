@@ -7,6 +7,7 @@
 4. Completa las misiones
 ## Uso
 Practica sobre gitflow, este proyecto puedes utilizarlo para probar comandos básicos de git:
+Por ejemplo: 
 * Ver estado (rama): git status
 * Cambiar a otra rama: git checkout nombreRama
 * Crear una rama nueva: git checkout -b nombreRama
