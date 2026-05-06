@@ -16,4 +16,13 @@ Este proyecto puedes utilizarlo para probar comandos básicos de git. Por ejempl
 ## Autores
 Yaiza Angelina Sanchez Dueñez
 ## Flujo de trabajo Git
+develop - Rama de integración de cambios
+feature - nuevos cambios
+release/v1.0.0 - Cambios revisados y probados para enviar a main
+hotfix/readme-typo - Correcciones en caliente
+
+tag v1.0.0 - Primera version
 ## Evidencias
+* URL del fork: https://github.com/yaiza22/Taller_GitFlow_Practica.git
+* Urls pull requests: https://github.com/yaiza22/Taller_GitFlow_Practica/pull
+* 
