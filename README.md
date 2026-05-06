@@ -18,6 +18,8 @@ Yaiza Angelina Sanchez Dueñez
 ## Flujo de trabajo Git
 develop - Rama de integración de cambios
 feature - nuevos cambios
+feature/documentacion-extra - contenido en el README
+feature/readme-base - estructura readme base
 release/v1.0.0 - Cambios revisados y probados para enviar a main
 hotfix/readme-typo - Correcciones en caliente
 
